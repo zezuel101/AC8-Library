@@ -1,2 +1,2 @@
 # AC8-Library
-Aircraft Model Library from Ace Combat 8
+Library home of the Ace Combat 8: Wings of Theve
